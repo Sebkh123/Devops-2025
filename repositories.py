@@ -59,6 +59,19 @@ GROUP_REPOS = [
     "documentation": [],
     "sla": "",
   },
+
+
+{
+    "name": "Gutterne",
+    "gitLinks": ["https://github.com/Sebkh123/Devops-2025"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": ["FastAPI", "SQLite", "Postgres"],  
+    "documentation": ["docs/adr/0001-framework-choice.md", "docs/adr/0002-conventions.md"],
+    "sla": "",
+},
+
   {
     "name": "CodeLab-DevOps",
     "gitLinks": ["https://github.com/CodeLab-DevOps/Frontend", "https://github.com/CodeLab-DevOps/Backend", "https://github.com/CodeLab-DevOps/Starter-WhoKnows-"],
