@@ -45,7 +45,7 @@ GROUP_REPOS = [
     "backend": "",
     "frontend": "",
     "monitoring": "",
-    "stack": [],
+    "stack": [],git a
     "documentation": [],
     "sla": "",
 },
