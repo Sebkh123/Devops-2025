@@ -45,13 +45,13 @@ GROUP_REPOS = [
     "backend": "",
     "frontend": "",
     "monitoring": "",
-    "stack": [],git a
+    "stack": [],
     "documentation": [],
     "sla": "",
 },
   {
     "name": "devkopa",
-    "gitLinks": ["https://github.com/devkopa/pythondevops"],
+    "gitLinks": ["https://github.com/devkopa/WhoKnows-legacy", "https://github.com/devkopa/WhoKnows-next-gen"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
@@ -61,7 +61,7 @@ GROUP_REPOS = [
   },
   {
     "name": "CodeLab-DevOps",
-    "gitLinks": ["https://github.com/CodeLab-DevOps/Frontend", "https://github.com/CodeLab-DevOps/Backend", "https://github.com/CodeLab-DevOps/Starter-WhoKnows-"],
+    "gitLinks": ["https://github.com/CodeLab-DevOps/whoknows_elixir_monolith", "https://github.com/CodeLab-DevOps/Starter-WhoKnows-"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
@@ -69,14 +69,14 @@ GROUP_REPOS = [
     "documentation": [],
     "sla": "",
   },
-  {
-    "name": "Git den gas!",
-    "gitLinks": ["https://github.com/Sebkh123/Devops-2025"],
+    {
+    "name": "GitDenGas123456!",
+    "gitLinks": ["https://github.com/GitDenGas123456/DevOps-Valgfag"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
     "stack": [],
     "documentation": [],
     "sla": "",
-}
+},
 ]
